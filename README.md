@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" src="https://animesher.com/orig/1/170/1706/17066/animesher.com_animation-707-choi-1706697.gif">
+<img align="right" src="https://media.tenor.com/SxJQcg2-UGkAAAAM/working-from.gif">
 
 - 🔭 I’m currently working on [a ios/android mobile app](https://github.com/thama-khedma/IOS-projet)
 
