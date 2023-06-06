@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monaem</h1>
 <h3 align="center">A passionate developer from Tunis</h3>
 
-- 🔭 I’m currently working on [a ios/android mobile app](github.com/thama-khedma)
+- 🔭 I’m currently working on [a ios/android mobile app]([github.com/thama-khedma](https://github.com/thama-khedma/IOS-projet/tree/monaem))
 
 - 🌱 I’m currently learning **C# in Unity**
 
