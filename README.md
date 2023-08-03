@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **C# in Unity**
 
-- 👨‍💻 All of my projects are available at [github.com/monaemhmila](github.com/monaemhmila)
-
 - 💬 Ask me about **nodejs , swift and flutter**
 
 - 📫 How to reach me **monaem.hmila@esprit.tn**
-
-- 📄 Know about my experiences [link...............](link...............)
 
 
 
